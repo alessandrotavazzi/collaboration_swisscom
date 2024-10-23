@@ -25,9 +25,8 @@ This repository documents my ongoing collaboration with **Swisscom** on data ana
 
 ## Repository Structure
 - `data/`: Contains raw datasets from CB Insights and other sources.
-- `scripts/`: Python scripts for data processing and analysis.
-- `reports/`: Generated reports and visualizations for market insights.
 - `notebooks/`: Jupyter notebooks used for data exploration and visualization.
+- `reports/`: Generated reports and visualizations for market insights.
 
 ## Future Work
 - Expand data analysis to cover additional markets and sectors.
